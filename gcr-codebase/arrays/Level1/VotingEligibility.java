@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class VotingEligibility {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
         // Define an array of 10 integer elements
         int[] ages = new int[10];
 
