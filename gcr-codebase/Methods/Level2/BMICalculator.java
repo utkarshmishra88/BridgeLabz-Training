@@ -2,7 +2,6 @@
 import java.util.Scanner;
 
 public class BMICalculator {
-
     // Method to calculate BMI 
     public static void calculateBMI(double[][] data){
         for(int i = 0; i < data.length; i++){
