@@ -1,4 +1,4 @@
-//Java program to demonstrate StringIndexOutOfBoundsException
+//Java program to demonstrate IllegalArgumentException.
 import java.util.Scanner;
 
 public class IllegalArgumentExceptionDemo {
