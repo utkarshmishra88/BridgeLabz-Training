@@ -95,7 +95,7 @@ BridgeLabz-Training
 - Programs were stored under the `arrays` folder in `gcr-codebase`.
 
  🔗 *Code Link:*  
-👉 [Day 5 –Java Arrays](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+👉 [Day 5 –Java Arrays](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ## 📅 Day 6 – Java Methods 
 **(Date: 20-Dec-2025)**
