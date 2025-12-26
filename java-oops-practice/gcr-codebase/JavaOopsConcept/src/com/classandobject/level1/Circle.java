@@ -9,7 +9,7 @@ public class Circle {
 			this.radius=radius;
 		}
 		
-		//Creating method for calculating area of circle
+		// calculating area of circle
 		public void areaCircle() {
 			System.out.printf("Area of circle: %.4f",(Math.PI*radius*radius));
 		}
