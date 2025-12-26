@@ -202,10 +202,9 @@ BridgeLabz-Training
 │   │   ├── methods
 │   │   ├── strings
 │   │   ├── program-prerequisite
-│   │   └── extras
-│   │       ├── string-handling
-│   │       ├── stringdatetime
-│   │       └── additional-programming
+│   │   └── Extras
+│   │       ├── Extra
+│   │       └── String
 │   │
 │   ├── scenario-based
 │   │
