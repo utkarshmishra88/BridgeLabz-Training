@@ -60,4 +60,30 @@ Followed proper naming conventions, indentation, and consistent formatting acros
 Organized all constructor and static concept programs systematically in the java-oops-practice branch.
 
 🔗 *Code Link:*
-👉 [Day 10 – Constructors & Instance vs Class Concepts](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/level1)
+👉 [Day 2 – Constructors & Instance vs Class Concepts](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/level1)
+
+## 📅 Day 11 – Java OOPS: Core Java Keywords ##
+
+*(Date: 29-Dec-2025)*
+*(Focus: static, final, this, instanceof)*
+
+-> Studied essential Java keywords and their role in OOPS-based programming.
+
+-> Understood the use of static keyword for class-level variables, methods, and shared behavior.
+
+-> Learned how final keyword is used to restrict modification of variables, methods, and classes.
+
+-> Practiced using this keyword to refer to the current object and resolve ambiguity between instance variables and parameters.
+
+-> Gained clarity on the instanceof operator to check object type at runtime.
+
+-> Implemented small programs to observe how these keywords affect object behavior and memory usage.
+
+-> Focused on writing clean, readable, and well-structured OOPS-based code.
+
+-> Followed proper naming conventions, indentation, and consistent formatting.
+
+-> Organized all keyword-based programs systematically in the java-oops-practice branch.
+
+🔗 Code Link:
+👉 [Day 3 – Constructors & Instance vs Class Concepts](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction)
