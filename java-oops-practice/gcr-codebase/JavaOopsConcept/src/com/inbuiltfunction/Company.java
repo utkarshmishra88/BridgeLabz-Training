@@ -1,4 +1,4 @@
-package com.javakeywords;
+package com.inbuiltfunction;
 
 public class Company {
 	   // Static variable

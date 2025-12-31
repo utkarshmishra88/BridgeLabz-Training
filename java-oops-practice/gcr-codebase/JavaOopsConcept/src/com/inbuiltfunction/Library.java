@@ -1,4 +1,4 @@
-package com.javakeywords;
+package com.inbuiltfunction;
 
 class Book {
 	   // Static variable 
