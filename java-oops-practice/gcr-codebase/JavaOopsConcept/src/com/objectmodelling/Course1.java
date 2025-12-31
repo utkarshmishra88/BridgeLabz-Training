@@ -4,8 +4,8 @@ import java.util.ArrayList;
 
 class Course1 {
     private String courseName;
-    private Professor professor; // Aggregation
-    private ArrayList<Student> students = new ArrayList<>();
+    private Professor professor;   // Aggregation
+    private ArrayList<Student1> students = new ArrayList<>();
 
     public Course1(String courseName) {
         this.courseName = courseName;
@@ -19,7 +19,7 @@ class Course1 {
         this.professor = professor;
     }
 
-    public void addStudent(Student student) {
+    public void addStudent(Student1 student) {
         students.add(student);
     }
 
@@ -28,8 +28,9 @@ class Course1 {
         System.out.println("Professor: " +
                 (professor != null ? professor.getName() : "Not Assigned"));
         System.out.println("Enrolled Students:");
-        for (Student s : students) {
+        for (Student1 s : students) {
             System.out.println("- " + s.getName());
         }
     }
 }
+
