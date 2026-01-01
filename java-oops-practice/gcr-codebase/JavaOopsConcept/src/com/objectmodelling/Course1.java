@@ -28,6 +28,7 @@ class Course1 {
         System.out.println("Professor: " +
                 (professor != null ? professor.getName() : "Not Assigned"));
         System.out.println("Enrolled Students:");
+        
         for (Student1 s : students) {
             System.out.println("- " + s.getName());
         }
