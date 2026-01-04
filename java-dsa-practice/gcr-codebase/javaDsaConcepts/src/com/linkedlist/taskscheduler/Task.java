@@ -1,4 +1,4 @@
-package com.datastructure.taskscheduler;
+package com.linkedlist.taskscheduler;
 
 class Task {
     int taskId;

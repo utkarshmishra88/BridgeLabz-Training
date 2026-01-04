@@ -1,4 +1,4 @@
-package com.datastructure.inventorysystem;
+package com.linkedlist.inventorysystem;
 
 class InventoryList {
 

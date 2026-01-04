@@ -1,4 +1,4 @@
-package com.datastructure.moviemgmt;
+package com.linkedlist.moviemgmt;
 
 class Movie {
     String title;

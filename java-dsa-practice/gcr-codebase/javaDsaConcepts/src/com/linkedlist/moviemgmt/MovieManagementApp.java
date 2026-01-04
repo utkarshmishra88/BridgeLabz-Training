@@ -1,4 +1,4 @@
-package com.datastructure.moviemgmt;
+package com.linkedlist.moviemgmt;
 
 public class MovieManagementApp {
     public static void main(String[] args) {

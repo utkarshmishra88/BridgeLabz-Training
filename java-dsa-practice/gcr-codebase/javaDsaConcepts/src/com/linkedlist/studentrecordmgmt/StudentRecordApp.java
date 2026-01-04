@@ -1,4 +1,4 @@
-package com.datastructure.studentrecordmgmt;
+package com.linkedlist.studentrecordmgmt;
 
 public class StudentRecordApp {
     public static void main(String[] args) {

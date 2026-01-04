@@ -1,4 +1,4 @@
-package com.datastructure.inventorysystem;
+package com.linkedlist.inventorysystem;
 
 public class InventoryApp {
     public static void main(String[] args) {

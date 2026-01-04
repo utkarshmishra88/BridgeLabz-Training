@@ -1,4 +1,4 @@
-package com.datastructure.taskscheduler;
+package com.linkedlist.taskscheduler;
 
 public class TaskSchedulerApp {
     public static void main(String[] args) {

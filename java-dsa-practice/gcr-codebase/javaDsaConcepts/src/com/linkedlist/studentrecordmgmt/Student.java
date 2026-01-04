@@ -1,4 +1,4 @@
-package com.datastructure.studentrecordmgmt;
+package com.linkedlist.studentrecordmgmt;
 
 class Student {
     int rollNo;
