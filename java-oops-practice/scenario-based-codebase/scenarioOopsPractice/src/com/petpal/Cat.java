@@ -1,4 +1,4 @@
-package petpal;
+package com.petpal;
 
 public class Cat extends Pet {
 
