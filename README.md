@@ -432,3 +432,61 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 🔗 Code Link:
 [👉 Day 15 – Linked List (DSA)](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/linkedlist)
+
+## 📅 Day 16 – Java OOPS: Scenario-Based Problem Solving
+
+*(Date: 03-01-2026)*
+*(Focus: Applying OOPS Concepts through Real-World Scenarios)*
+
+- >Practiced real-world, story-driven Java problems to strengthen advanced OOPS understanding.
+
+- >Designed backend logic for a ride-hailing application (CabbyGo) involving vehicles, drivers, and ride booking workflows.
+
+- >Implemented Encapsulation by keeping sensitive data like fare, location, and account balance private and exposing them through public methods.
+
+- >Applied Inheritance to model real hierarchies such as Mini, Sedan, and SUV extending the Vehicle class, and SavingsAccount and CurrentAccount extending Account.
+
+- >Used Abstraction with interfaces like IRideService and ITransaction to define common behaviors while hiding implementation details.
+
+- >Demonstrated Polymorphism by overriding methods such as bookRide(), calculateFare(), and calculateInterest() with behavior varying by vehicle or account type.
+
+- >Designed systems using constructors (default and parameterized) to initialize vehicles, drivers, and bank accounts with or without initial data.
+
+- >Used operators to perform core calculations such as fare computation (baseFare + distance × rate) and interest calculation (balance × interestRate / 100).
+
+- >Applied access modifiers carefully to protect critical data while exposing only required operations to users.
+
+- >Focused on writing clean, modular, and reusable code following industry-standard naming conventions and OOPS best practices.
+
+🔗 Code Link:
+👉 [Day 16 – Scenario-Based OOPS Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+## Data Structures & Algorithms: Stack, Queue & Hashing
+- > Learned the fundamentals of Stack as a linear data structure that follows the LIFO (Last In, First Out) principle.
+
+- >Understood common Stack operations such as push, pop, peek, and isEmpty.
+
+- >Studied Queue as a linear data structure that follows the FIFO (First In, First Out) principle.
+
+- >Learned Queue operations including enqueue, dequeue, front, and rear.
+
+- >Explored different Queue implementations and real-world use cases.
+
+- >Studied Hashing as a technique to map data to fixed-size values for fast access.
+
+- >Understood how HashMap stores data in key–value pairs using hashing.
+
+- >Learned about hash functions, collision handling, and efficient searching.
+
+- >Practiced implementing Stack, Queue, and HashMap concepts using Java.
+
+- >Gained clarity on how these data structures improve time complexity and performance.
+
+- >Focused on writing clean, readable, and well-structured DSA-based code.
+
+- >Followed proper naming conventions, indentation, and consistent formatting.
+
+- >Organized all Stack, Queue, and Hashing programs systematically in the DSA practice branch.
+
+🔗 Code Link:
+[👉 Day 16 – Stack, Queue & Hashing (DSA)](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/stacksandqueues)
