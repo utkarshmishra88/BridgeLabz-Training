@@ -301,6 +301,11 @@ Organized all constructor and static concept programs systematically in the java
 
 -> Followed proper naming conventions, indentation, and consistent formatting.
 
+-> Organized all data-modeling and relationship-based programs systematically in the java-oops-practice branch.
+
+🔗 Code Link:
+👉 [Day 12 – Data Modeling, Association, Aggregation & Composition](https://github.com/vikash8058/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+
 ## 📅 Day 13 – Java OOPS: Inheritance
 
 *(Date: 31-Dec-2025)*
