@@ -59,4 +59,4 @@ BridgeLabz-Training
 - Committed and pushed solutions to the repository.
 
   🔗 Code Link:  
-👉 [Day 3 – Java Programming Elements](https://github.com/vikash8058/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+👉 [Day 3 – Java Programming Elements](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
