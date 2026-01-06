@@ -490,3 +490,54 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 🔗 Code Link:
 [👉 Day 16 – Stack, Queue & Hashing (DSA)](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/stacksandqueues)
+
+## 📅 Day 17 – Java OOPS: Scenario-Based Problem Solving
+*(Date: 05-01-2026)*
+*(Focus: Applying OOPS Concepts through Academic & E-Commerce Scenarios)*
+
+- >Practiced real-world, story-driven Java problems to deepen understanding of advanced OOPS concepts.
+
+- >Designed an academic management module (CampusConnect) to manage students, faculty, courses, and enrollments.
+
+- >Applied Inheritance by extending a common Person class into Student and Faculty to model real-world relationships.
+
+- >Used Abstraction through interfaces like ICourseActions and ICheckout to define core behaviors while hiding implementation details.
+
+- >Implemented Encapsulation by keeping sensitive data such as student grades and cart price calculations private.
+
+- >Applied Polymorphism by overriding methods like printDetails() for Student and Faculty, and discount logic for different product types.
+
+- >Designed systems using constructors to initialize students, courses, carts, and products with flexible configurations.
+
+- >Used operators to perform calculations such as GPA computation, total cart price, and discount application.
+
+- >Modeled inheritance hierarchies like PerishableProduct and NonPerishableProduct extending Product.
+
+- >Focused on writing clean, modular, and reusable code following OOPS principles and proper access control.
+
+🔗 Code Link:
+👉 [Day 17 – Scenario-Based OOPS Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+## Data Structures & Algorithms: Sorting Techniques
+- >Studied the importance of sorting algorithms for organizing data efficiently and improving search performance.
+
+- >Learned Bubble Sort by repeatedly comparing adjacent elements and swapping them to sort data step by step.
+
+- >Understood Selection Sort, where the minimum element is selected and placed at the correct position in each iteration.
+
+- >Practiced Insertion Sort, inserting elements into their correct position in the already sorted part of the array.
+
+- >Explored Merge Sort using the divide-and-conquer approach to recursively split and merge arrays.
+
+- >Learned Quick Sort, selecting a pivot element and partitioning the array around the pivot.
+
+- >Studied Counting Sort for sorting integers efficiently when the range of elements is limited.
+
+- >Implemented Heap Sort using a binary heap data structure to repeatedly extract the maximum element.
+
+- >Compared sorting algorithms based on time complexity, space complexity, and stability.
+
+- >Focused on writing clean, optimized, and well-structured code following DSA best practices.
+
+🔗 Code Link:
+[👉 Day 17 – Data Structures & Algorithms: Sorting Techniques](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/sorting)
