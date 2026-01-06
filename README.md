@@ -63,3 +63,29 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 🔗 Code Link:
 [👉 Day 16 – Stack, Queue & Hashing (DSA)](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com)
+
+## 📅 Day 17 –  Data Structures & Algorithms: Sorting Techniques
+**(Date: 05-01-2026)**
+**(Sorting Techniques)**
+- >Studied the importance of sorting algorithms for organizing data efficiently and improving search performance.
+
+- >Learned Bubble Sort by repeatedly comparing adjacent elements and swapping them to sort data step by step.
+
+- >Understood Selection Sort, where the minimum element is selected and placed at the correct position in each iteration.
+
+- >Practiced Insertion Sort, inserting elements into their correct position in the already sorted part of the array.
+
+- >Explored Merge Sort using the divide-and-conquer approach to recursively split and merge arrays.
+
+- >Learned Quick Sort, selecting a pivot element and partitioning the array around the pivot.
+
+- >Studied Counting Sort for sorting integers efficiently when the range of elements is limited.
+
+- >Implemented Heap Sort using a binary heap data structure to repeatedly extract the maximum element.
+
+- >Compared sorting algorithms based on time complexity, space complexity, and stability.
+
+- >Focused on writing clean, optimized, and well-structured code following DSA best practices.
+
+🔗 Code Link:
+[👉 Day 17 – Data Structures & Algorithms: Sorting Techniques](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/sorting)
