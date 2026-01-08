@@ -1,4 +1,5 @@
-## 📅 Day 15 – Data Structures & Algorithms: Linked List
+# Week 3: Data Structures & Algorithm
+## 📅 Day 1 – Data Structures & Algorithms: Linked List
 **(Date: 02-01-2026)**
 **(Focus: DSA Fundamentals – Linked List Variants)**
 
@@ -29,9 +30,9 @@ Circular Linked List – last node links back to the first node forming a loop.
 - > Organized all Linked List programs systematically in the DSA practice branch.
 
 🔗 Code Link:
-[👉 Day 15 – Linked List (DSA)](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/linkedlist)
+[👉 Day 1 – Linked List (DSA)](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/linkedlist)
 
-## 📅 Day 16 – Data Structures & Algorithms: Stack, Queue & Hashing
+## 📅 Day 2 – Data Structures & Algorithms: Stack, Queue & Hashing
 **(Date: 03-01-2026)**
 **(Focus: DSA Fundamentals – Stack, Queue, HashMap & Hashing)**
 
@@ -62,9 +63,9 @@ Circular Linked List – last node links back to the first node forming a loop.
 - >Organized all Stack, Queue, and Hashing programs systematically in the DSA practice branch.
 
 🔗 Code Link:
-[👉 Day 16 – Stack, Queue & Hashing (DSA)](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com)
+[👉 Day 2 – Stack, Queue & Hashing (DSA)](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/stacksandqueues)
 
-## 📅 Day 17 –  Data Structures & Algorithms: Sorting Techniques
+## 📅 Day 3 –  Data Structures & Algorithms: Sorting Techniques
 **(Date: 05-01-2026)**
 **(Sorting Techniques)**
 - >Studied the importance of sorting algorithms for organizing data efficiently and improving search performance.
@@ -88,4 +89,21 @@ Circular Linked List – last node links back to the first node forming a loop.
 - >Focused on writing clean, optimized, and well-structured code following DSA best practices.
 
 🔗 Code Link:
-[👉 Day 17 – Data Structures & Algorithms: Sorting Techniques](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/sorting)
+[👉 Day 3 – Data Structures & Algorithms: Sorting Techniques](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/sorting)
+
+
+## 📅 Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+**(Date: 06-01-2026)**
+**(Focus: String Handling, Searching & File Handling)**
+
+- > Studied StringBuffer and StringBuilder to understand mutable string operations and performance differences.
+
+- > Learned searching techniques including linear search and binary search for efficient data retrieval.
+
+- > Practiced file handling using BufferedReader for reading data efficiently from files.
+
+- > Focused on writing clean, optimized, and readable Java code following core Java best practices.
+
+🔗 Code Link:
+[👉 Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com)
+
