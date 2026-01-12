@@ -138,3 +138,29 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 🔗 Code Link:
 [👉 Day 6 – DSA Scenario-Based Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsapractice/src/com)
+
+## 📅 Day 7 – Data Structures: Scenario-Based Practice
+**(Date: 10-01-2026)**
+**(Focus: Real-World Application of Data Structures)**
+
+- > Worked on real-world DSA scenarios using Linked Lists, Stacks, and HashMaps.
+
+- > Implemented CallCenter with HashMap + Queue for efficient call - transfer.
+
+- > Designed TrainCompanion using Doubly Linked List.
+
+- > Simulated TextEditor  using Stack for emergency navigation.
+
+🔗 Code Link:
+[👉 Day 7 – DSA Scenario-Based Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsapractice/src/com)
+
+- > Solved leetcode questions of Leetcode.
+
+- > Major focus on LinkedList questions.
+
+- > Solve the basic delete, update in linkedlist.
+
+🔗 Code Link:
+[👉 Day 7 – DSA Leet-Code Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/leetcode-codebase)
+
+
