@@ -107,3 +107,34 @@ Circular Linked List – last node links back to the first node forming a loop.
 🔗 Code Link:
 [👉 Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com)
 
+## 📅 Day 5 – Data Structures: Time & Space Complexity
+**(Date: 07-01-2026)**
+**(Focus: Analyzing Algorithm Efficiency)**
+
+- > Studied Time Complexity to understand how algorithm execution time grows with input size.
+
+- > Learned Space Complexity to analyze memory usage of algorithms during execution.
+
+- > Explored common Big-O notations such as O(1), O(n), O(n²), and O(log n).
+
+- > Compared different algorithms based on efficiency, scalability, and resource usage.
+
+- > Focused on writing optimized and efficient code by choosing appropriate algorithms and data structures.
+
+🔗 Code Link:
+[👉 Day 5 – Data Structures: Time & Space Complexity](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/runtimeanalysis)
+
+## 📅 Day 6 – Data Structures: Scenario-Based Practice
+**(Date: 10-01-2026)**
+**(Focus: Real-World Application of Data Structures)**
+
+- > Worked on real-world DSA scenarios using Linked Lists, Stacks, and HashMaps.
+
+- > Implemented BookShelf with HashMap + LinkedList for efficient library organization.
+
+- > Designed BrowserBuddy using Doubly Linked List and Stack for tab history management.
+
+- > Simulated AmbulanceRoute using Circular Linked List for emergency navigation.
+
+🔗 Code Link:
+[👉 Day 6 – DSA Scenario-Based Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsapractice/src/com)
