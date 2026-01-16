@@ -61,6 +61,7 @@ public class ZipZipMart {
         for (Transaction t : transactions) {
             System.out.println(t.date + " - " + t.amount);
         }
+
         sc.close();
     }
 }
