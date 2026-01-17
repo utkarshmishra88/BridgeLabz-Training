@@ -1,4 +1,4 @@
-package warehousemgmtsystem;
+package com.warehousemgmtsystem;
 import java.util.ArrayList;
 import java.util.List;
 

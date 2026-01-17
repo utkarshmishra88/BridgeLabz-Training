@@ -1,4 +1,4 @@
-package warehousemgmtsystem;
+package com.warehousemgmtsystem;
 class Electronics extends WarehouseItem {
     public Electronics(String itemId, String name) {
         super(itemId, name);

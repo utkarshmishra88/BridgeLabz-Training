@@ -1,4 +1,4 @@
-package warehousemgmtsystem;
+package com.warehousemgmtsystem;
 abstract class WarehouseItem {
     private String itemId;
     private String name;
