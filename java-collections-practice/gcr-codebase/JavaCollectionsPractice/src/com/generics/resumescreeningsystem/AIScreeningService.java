@@ -1,4 +1,4 @@
-package com.resumescreeningsystem;
+package com.generics.resumescreeningsystem;
 class AIScreeningService {
 
     public static <T extends JobRole> void aiEvaluate(Resume<T> resume) {
