@@ -170,3 +170,22 @@ Circular Linked List – last node links back to the first node forming a loop.
 
 🔗 Code Link:
 [👉 Day 8 – DSA Scenario-Based Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsapractice/src/com)
+
+## 📅 Day 9 – Data Structures & Algorithms: Scenario-Based Practice
+**(Date: 15-01-2026)**
+**(Focus: Real-World Application of Sorting Algorithms)**
+
+- > Worked on DSA-based scenarios using sorting algorithms such as Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort.
+
+- > Applied Bubble Sort for small datasets in HospitalQueue to sort patients by criticality efficiently and in-place.
+
+- > Used Insertion Sort in SmartShelf for real-time, nearly sorted data like dynamically added book titles.
+
+- > Implemented Merge Sort in ZipZipMart and ExamCell to handle large-scale, stable sorting and merging of records.
+
+- > Applied Quick Sort in EventManager for fast average-case performance on large, unsorted ticket price data.
+
+- > Focused on choosing the right sorting technique based on data size, order, and performance needs, following DSA best practices.
+
+🔗 Code Link:
+[👉 Day 9 – DSA Scenario-Based Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsapractice/src/com/sorting)
