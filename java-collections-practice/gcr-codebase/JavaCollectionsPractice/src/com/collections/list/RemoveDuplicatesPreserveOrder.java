@@ -5,7 +5,6 @@ public class RemoveDuplicatesPreserveOrder {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Enter number of elements: ");
         int n = sc.nextInt();
 
@@ -17,7 +16,6 @@ public class RemoveDuplicatesPreserveOrder {
 
         Set<Integer> seen = new HashSet<>();
         List<Integer> result = new ArrayList<>();
-
         for (Integer num : list) {
             if (!seen.contains(num)) {
                 seen.add(num);
