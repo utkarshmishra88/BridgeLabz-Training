@@ -110,6 +110,10 @@ BridgeLabz-Training/
 |  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
 |  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
 
+### **Week 4 : Collections Framework in Java**
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|     |             |                                |                                        |
 
 ---
 
