@@ -19,6 +19,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-dsa-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice)
 **Week 3** : Data Structures & Algorithms
 
+### 🔹 [java-collections-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice)
+**Week 4** : Collections Framework in Java
+
 ---
 
 ## 📂 Project Structure
