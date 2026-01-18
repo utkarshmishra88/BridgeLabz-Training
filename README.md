@@ -107,6 +107,9 @@ BridgeLabz-Training/
 |  17 | 05-Jan      | Sorting Algorithms             | Sorting algorithms & comparison logic  |
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
+|  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
+|  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
+
 
 ---
 
