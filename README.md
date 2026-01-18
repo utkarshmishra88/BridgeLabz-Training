@@ -19,6 +19,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-dsa-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice)
 **Week 3** : Data Structures & Algorithms
 
+### 🔹 [java-collections-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice)
+**Week 4** : Collections Framework in Java
+
 ---
 
 ## 📂 Project Structure
@@ -39,7 +42,7 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 └── 📁 java-oops-practice/
-│   └── 📁 gcr-codebase/
+│   ├── 📁 gcr-codebase/
 │   │  └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
@@ -52,9 +55,9 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
-└── 📁 java-dsa-practice/
-│   └── 📁 gcr-codebase/
-│   │  └── 📁 DsaConcepts/
+└── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 linkedlists/       # singly, doubly & circular
@@ -66,6 +69,11 @@ BridgeLabz-Training/
 │   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+└── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
 |
 └── README.md
 ```
@@ -107,6 +115,13 @@ BridgeLabz-Training/
 |  17 | 05-Jan      | Sorting Algorithms             | Sorting algorithms & comparison logic  |
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
+|  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
+|  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
+
+### **Week 4 : Collections Framework in Java**
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|     |             |                                |                                        |
 
 ---
 
@@ -140,7 +155,9 @@ BridgeLabz-Training/
 - **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
 - **File Handling**: Reading input using `FileReader` and `InputStreamReader`
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
-  
+
+### Collections Framework (java-collections-practice)
+
 ---
 
 ## 🔗 Quick Links
@@ -171,6 +188,11 @@ BridgeLabz-Training/
 - 📌 [HashMaps](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/hashmap)
 - 📌 [Sorting Algorithms](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/sorting)
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/searching)
+- 📌 [Time & Space Complexity Analysis](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/runtimeanalysis)
+- 📌 [LeetCode Solutions](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/leetcode-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsapractice/src)
+
+### `java-collections-practice` :
 
 ---
 
