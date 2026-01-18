@@ -42,7 +42,7 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 └── 📁 java-oops-practice/
-│   └── 📁 gcr-codebase/
+│   ├── 📁 gcr-codebase/
 │   │  └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
@@ -55,9 +55,9 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
-└── 📁 java-dsa-practice/
-│   └── 📁 gcr-codebase/
-│   │  └── 📁 DsaConcepts/
+└── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 linkedlists/       # singly, doubly & circular
@@ -69,6 +69,11 @@ BridgeLabz-Training/
 │   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+└── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
 |
 └── README.md
 ```
