@@ -140,27 +140,19 @@ Circular Linked List – last node links back to the first node forming a loop.
 [👉 Day 6 – DSA Scenario-Based Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsapractice/src/com)
 
 ## 📅 Day 7 – Data Structures: Scenario-Based Practice
-**(Date: 10-01-2026)**
-**(Focus: Real-World Application of Data Structures)**
+**(Date: 11-01-2026)**
+**(Focus: Real-World Queue, Linked List & Stack Applications)**
 
-- > Worked on real-world DSA scenarios using Linked Lists, Stacks, and HashMaps.
+- > Worked on real-world DSA scenarios using Queues, HashMaps, Doubly Linked Lists, and Stacks.
 
-- > Implemented CallCenter with HashMap + Queue for efficient call - transfer.
+- > Implemented CallCenter using Queue, Priority Queue, and HashMap to manage customer calls and VIP handling.
 
-- > Designed TrainCompanion using Doubly Linked List.
+- > Designed TrainCompanion with a Doubly Linked List to navigate, insert, and remove train compartments dynamically.
 
-- > Simulated TextEditor  using Stack for emergency navigation.
+- > Built TextEditor functionality using Stacks to support undo and redo operations efficiently.
+
+- > TrafficManager simulates a smart city roundabout using a Circular Linked List for vehicle flow and a Queue to manage waiting vehicles.
 
 🔗 Code Link:
 [👉 Day 7 – DSA Scenario-Based Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsapractice/src/com)
-
-- > Solved leetcode questions of Leetcode.
-
-- > Major focus on LinkedList questions.
-
-- > Solve the basic delete, update in linkedlist.
-
-🔗 Code Link:
-[👉 Day 7 – DSA Leet-Code Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/leetcode-codebase)
-
 
