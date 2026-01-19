@@ -25,7 +25,7 @@ public class Main {
 
         FitnessTracker.bubbleSort(users);
 
-        System.out.println("\n🏆 Daily Step Leaderboard:");
+        System.out.println("\nDaily Step Leaderboard:");
         for (int i = 0; i < n; i++) {
             System.out.println(
                 "Rank " + (i + 1) + " → " +
