@@ -1,0 +1,8 @@
+Hello Utkarsh,
+
+This is a sample text file.
+It is used to demonstrate file handling in Java.
+We are reading this file using FileInputStream
+and writing its content into another file.
+
+Happy Coding!
