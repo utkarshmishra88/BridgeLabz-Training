@@ -202,6 +202,11 @@ BridgeLabz-Training/
 - 📌 [Scenario-Based Solutions](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioDsapractice/src)
 
 ### `java-collections-practice` :
+- 📌 [Generics](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+- 📌 [List Interface](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections/list)
+- 📌 [Set Interface](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections/set)
+- 📌 [Queue Interface](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections/queue)
+- 📌 [Map Interface](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections/map)
 
 ---
 
