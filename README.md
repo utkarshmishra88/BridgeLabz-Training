@@ -119,9 +119,10 @@ BridgeLabz-Training/
 |  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
 
 ### **Week 4 : Collections Framework in Java**
-| Day |     Date    | Topic                          | Coverage                               |
-|-----|-------------|--------------------------------|----------------------------------------|
-|     |             |                                |                                        |
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
+| 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
 
 ---
 
