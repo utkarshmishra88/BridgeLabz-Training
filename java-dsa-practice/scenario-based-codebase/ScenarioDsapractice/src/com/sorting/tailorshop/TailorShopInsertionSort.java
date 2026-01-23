@@ -4,7 +4,7 @@ public class TailorShopInsertionSort {
     // Insertion Sort based on deadline
     static void insertionSort(Order[] orders) {
         for (int i = 1; i < orders.length; i++) {
-            Order key = orders[i];
+            Order key = orders[i];	
             int j = i - 1;
 
             while (j >= 0 && orders[j].deadline > key.deadline) {
@@ -22,7 +22,7 @@ public class TailorShopInsertionSort {
     }
 
     public static void main(String[] args) {
-
+        
         Order[] orders = {
             new Order(101, 5),
             new Order(102, 2),

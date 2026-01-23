@@ -1,9 +1,14 @@
 package com.sorting.movietime;
-class Show {
-    String movieName;
-    int time; // time in minutes (e.g., 18:30 → 1110)
 
-    Show(String movieName, int time) {
+// Movie show: title and start time (minutes since midnight)
+class Show {
+    // movie title
+	String movieName;
+    // start time in minutes (0-1439)
+	int time;
+
+    // create a show
+	Show(String movieName, int time) {
         this.movieName = movieName;
         this.time = time;
     }
