@@ -2,6 +2,7 @@ package com.reflection;
 import java.lang.reflect.Method;
 import java.util.Scanner;
 
+// Class with basic math operations
 class MathOperations {
 
     public int add(int a, int b) {
