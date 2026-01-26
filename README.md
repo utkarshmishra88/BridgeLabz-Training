@@ -52,3 +52,37 @@
 
 🔗 Code Link: 
 [👉 Day 3 – Java File Handling & Streams Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+
+## 📅 Day 4 – Java: Exception Handling
+**(Date: 20-01-2026)**
+**(Focus: Handling Runtime Errors and Building Robust Applications)**
+
+- > Studied Java Exception Handling to manage runtime errors and prevent abnormal program termination.
+
+- > Learned the use of try, catch, finally, throw, and throws keywords for controlled error handling.
+
+- > Explored checked vs unchecked exceptions and common exceptions like NullPointerException, ArithmeticException, and IOException.
+
+- > Practiced creating and using custom exceptions for application-specific error scenarios.
+
+- > Focused on writing robust, readable, and maintainable code with proper exception-handling best practices.
+
+🔗 Code Link:
+[👉 Day 4 – Exception Handling Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptionhandling)
+
+## 📅 Day 5 – Java Fundamentals: Regex & JUnit
+**(Date: 21-01-2026)**
+**Focus: Regular Expressions & Unit Testing**
+
+- > Studied Regex basics including metacharacters and quantifiers for building effective patterns.
+
+- > Implemented common regex use cases such as email validation, password strength checks, and phone number formatting.
+
+- > Worked with the Java Regex API, using Pattern and Matcher classes for pattern matching.
+
+- > Practiced important regex methods: find(), matches(), and replaceAll() for string validation and manipulation.
+
+- > Learned JUnit fundamentals including annotations, test case writing, test class structure, and assertions for validating logic.
+
+🔗 Code Link: 
+[👉 Day 5 – Regex & JUnit Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com)
