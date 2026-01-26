@@ -1,0 +1,6 @@
+{
+  "name": "Utkarsh",
+  "age": 22,
+  "skills": ["Java", "SQL", "Spring"],
+  "active": true
+}
