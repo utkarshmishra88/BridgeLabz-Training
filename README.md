@@ -1,87 +1,54 @@
-# Week 4: Java Collections & Stream
----
+# Week 4 : Collection Interface
 
-## 📅 Day 1 – Java Generics Overview 
-**(Date: 15-Jan-2026)**                    
-**Branch:** `java-collections-practice`
+## 📅 Day 1 – Java Collections: Deep Dive into Generics
+**(Date: 15-01-2026)**
+**(Focus: Understanding Generics for Type-Safe Collections)**
 
-Studied the Java Collections Framework to manage groups of objects efficiently using built-in data structures. Learned the difference between Collection and Map interfaces and their real-world use cases.
+- > Studied Java Generics in detail to understand how they provide type safety and reduce runtime errors in collections.
 
-## 📁Project Structure
+- > Learned how generic classes, methods, and interfaces work with collections like List, Set, and Map.
 
-```
-BridgeLabz-Training/
-│
-├── 📁 java-collections-practice/
-│   ├── 📁 gcr-codebase/
-│   │   └── 📁 JavaCollections/
-│   │       └── 📁 src/
-│   │           └── 📁 com/
-│   │               ├── 📁 generics/
-│   │               ├── 📁 collections/
-│   └── 📁 scenario-based-codebase/
-│
-└── README.md
-```
+- > Explored bounded type parameters, wildcards (? extends, ? super), and their use cases.
 
-#### 🔹 Created a new branch `java-collections-practice`
-- Learned and applied Java Generics best practices:
-  - Generic classes, methods, and constructors
-  - Bounded type parameters and wildcards
-  - Type safety and reusability
+- > Understood how generics improve code reusability, readability, and compile-time checking.
 
-#### 🔹 Topics Learned
-- Type safety with generics
-- Generic classes, methods, and constructors
-- Upper & lower bounded wildcards
-- Bounded type parameters
-- Avoiding raw types and type erasure pitfalls
-- Designing clean and reusable generic APIs
-  
-#### 🔹 Implemented real-world generic systems:
-  - Smart Warehouse Management
-  - Online Marketplace
-  - Course Management System
-  - Meal Plan Generator
-  - AI-Driven Resume Screening System
+- > Focused on applying generics effectively to write clean, robust, and maintainable collection-based code.
 
-🔗 **Code Links:**  
-👉 [Day 1 - Java Generics Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+🔗 Code Link:
+[👉 Day 1 – Java Generics & Collections Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
 
----
+## 📅 Day 2 – Java Collections Framework: List, Set, Queue & Map
+**(Date: 16-01-2026)**
+**(Focus: Complete Overview of Java Collections Framework)**
 
-## 📅 Day 2 – Java Collections Framework  
-**(Date: 16-Jan-2026)** 
-**Branch:** `java-collections-practice`
+- > Studied the Java Collections Framework in depth, covering List, Set, Queue, and Map interfaces.
 
-Learned and practiced the **Java Collections Framework** in depth:
+- > Explored List implementations such as ArrayList and LinkedList for ordered and index-based data storage.
 
-#### ✔ Core Topics Covered
-- Collection hierarchy: `List`, `Set`, `Queue`, `Map`
-- Implementations:
-  - **List:** ArrayList, LinkedList, Vector
-  - **Set:** HashSet, LinkedHashSet, TreeSet
-  - **Queue/Deque:** PriorityQueue, ArrayDeque
-  - **Map:** HashMap, LinkedHashMap, TreeMap, Hashtable
-- Performance comparison & real-world use cases
-- Best practices: generics, choosing correct collection, avoiding legacy misuse
+- > Learned Set implementations like HashSet and TreeSet to handle unique elements and sorted collections.
 
-#### ✔ Practice Problems Implemented
-- **List operations:** reverse, rotate, frequency count, remove duplicates
-- **Set operations:** union, intersection, subsets, sorting
-- **Queue problems:** reverse queue, triage system, circular buffer
-- **Map problems:** word frequency, merge maps, grouping objects
-- **Mini systems:**
-  - Insurance Policy Management
-  - Banking System
-  - Voting System
-  - Shopping Cart
+- > Understood Queue and Deque implementations for FIFO processing and task scheduling.
 
-#### ✅ Summary
-- Built strong fundamentals of **Java Collections**
-- Solved extensive **hands-on problems** across List, Set, Queue, and Map
+- > Studied Map implementations such as HashMap and TreeMap for efficient key–value data storage and retrieval.
 
-🔗 **Code Links:**   
-👉 [Day 2 - Java Collections Framework](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
+- > Focused on choosing the right collection type based on performance, ordering, and use-case requirements.
 
----
+🔗 Code Link:
+[👉 Day 2 – Java Collections Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com)
+
+## 📅 Day 3 – Java File Handling & I/O Streams
+**(Date: 19-01-2026)**
+**(Focus: File Handling, Buffered Streams, Serialization & Advanced I/O)**
+
+- > Studied Java File Handling and I/O Streams to understand how Java reads and writes data using byte and character streams.
+
+- > Learned the difference between basic file streams and buffered streams, and how buffering improves performance for large file operations.
+
+- > Practiced reading user input from the console and writing structured data into files using reader and writer classes.
+
+- > Explored object serialization and deserialization to store and retrieve Java objects using ObjectInputStream and ObjectOutputStream.
+
+- > Worked with ByteArray streams, data streams, piped streams, and large-file processing to handle real-world I/O scenarios efficiently.
+
+🔗 Code Link: 
+[👉 Day 3 – Java File Handling & Streams Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
