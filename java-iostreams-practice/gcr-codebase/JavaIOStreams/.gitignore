@@ -1,0 +1,54 @@
+# ===============================
+# Maven
+# ===============================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.mvn/
+wrapper/
+
+# ===============================
+# Eclipse
+# ===============================
+.project
+.classpath
+.settings/
+.metadata/
+.recommenders/
+
+# ===============================
+# IntelliJ IDEA
+# ===============================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ===============================
+# VS Code
+# ===============================
+.vscode/
+
+# ===============================
+# Java
+# ===============================
+*.class
+*.log
+
+# ===============================
+# OS Generated
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Misc
+# ===============================
+*.tmp
+*.bak
+*.swp
+
