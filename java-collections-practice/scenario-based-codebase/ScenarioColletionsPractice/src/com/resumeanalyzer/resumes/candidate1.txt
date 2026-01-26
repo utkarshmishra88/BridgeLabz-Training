@@ -1,0 +1,44 @@
+RESUME
+
+Name: Utkarsh Mishra
+Email: utkarsh.mishra2025@gmail.com
+Phone: 9876543210
+
+Career Objective:
+Motivated Computer Science Engineering student with strong fundamentals
+in software development, data structures, and backend technologies.
+Seeking an entry-level software engineering role in a reputed organization.
+
+Technical Skills:
+• Java
+• Python
+• Spring
+• Spring Boot
+• MySQL
+• HTML, CSS, JavaScript
+
+Projects:
+1. ResumeAnalyzer – Smart Resume Filtering System
+   - Developed using Java, Regex, and File I/O
+   - Extracted candidate details from resumes
+   - Ranked candidates based on keyword matching
+
+2. Weather Forecast Application
+   - Built using Java and REST APIs
+   - Displays real-time weather data
+
+Education:
+Bachelor of Technology (B.Tech) in Computer Science Engineering
+Expected Graduation: 2026
+
+Certifications:
+• Java Programming Certification
+• Python for Data Science
+
+Declaration:
+I hereby declare that the above information is true and correct
+to the best of my knowledge.
+
+Place: India
+Date: 12-01-2026
+Signature: Utkarsh Mishra
