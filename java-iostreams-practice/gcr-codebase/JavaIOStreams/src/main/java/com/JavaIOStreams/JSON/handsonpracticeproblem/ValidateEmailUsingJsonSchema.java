@@ -3,7 +3,6 @@ import java.util.Set;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.jsonschema.JsonSchema;
 import com.networknt.schema.BaseJsonValidator;
 import com.networknt.schema.JsonSchemaFactory;
 import com.networknt.schema.SpecVersion;
