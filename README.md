@@ -185,6 +185,12 @@ BridgeLabz-Training/
 | 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
 | 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
 
+### **Week 6 : Java 8 Features**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
+| 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
+
 ---
 
 ##  Key Concepts Covered
