@@ -99,6 +99,7 @@ BridgeLabz-Training/
 |   |
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
+│
 ├── 📁 java-iostreams-practice/
 │   ├── 📁 gcr-codebase/
 │   │  └── 📁 IOStreamsConcepts/
@@ -178,6 +179,11 @@ BridgeLabz-Training/
 | 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
 | 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
 
+### **Week 5 : Java I/O Streams**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
+| 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
 
 ---
 
