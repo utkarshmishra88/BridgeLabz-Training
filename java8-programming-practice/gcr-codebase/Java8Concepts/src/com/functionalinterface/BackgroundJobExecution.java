@@ -4,6 +4,7 @@ public class BackgroundJobExecution{
 
     public static void main(String[] args){
 
+    	// Define a background job
         Runnable job = () -> {
             System.out.println("Background job started");
             try{
@@ -14,6 +15,7 @@ public class BackgroundJobExecution{
             System.out.println("Background job completed");
         };
 
+        // Execute the job in a separate thread
         Thread workerThread = new Thread(job);
         workerThread.start();
 

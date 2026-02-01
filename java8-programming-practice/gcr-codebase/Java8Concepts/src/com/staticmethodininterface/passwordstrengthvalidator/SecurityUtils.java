@@ -1,4 +1,5 @@
 package com.staticmethodininterface.passwordstrengthvalidator;
+
 public interface SecurityUtils {
 
     // static utility method
