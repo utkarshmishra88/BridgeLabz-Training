@@ -22,6 +22,12 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-collections-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice)
 **Week 4** : Collections Framework in Java
 
+### 🔹 [java-iostreams-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : Java I/O Streams
+
+### 🔹 [java8-programming-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6** : Java 8 Features
+
 ---
 
 ## 📂 Project Structure
@@ -93,6 +99,32 @@ BridgeLabz-Training/
 |   |
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
+│
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 IOStreamsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
+│   │               └── 📁 jsondata/          # JSON parsing, schema validation, mapping, conversions
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 Java8Concepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
+│   │               └── 📁 methodreferences/  # Static, instance, constructor references
+│   │               └── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│   │               └── 📁 streams/           # Stream API, intermediate & terminal operations
+│   │               └── 📁 collectors/        # Grouping, partitioning, summarizing collectors
+│   │               └── 📁 workshop/          # Mini projects & real-world stream problems
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
 |
 └── README.md
 ```
@@ -147,6 +179,17 @@ BridgeLabz-Training/
 | 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
 | 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
 
+### **Week 5 : Java I/O Streams**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
+| 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
+
+### **Week 6 : Java 8 Features**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
+| 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
 
 ---
 
