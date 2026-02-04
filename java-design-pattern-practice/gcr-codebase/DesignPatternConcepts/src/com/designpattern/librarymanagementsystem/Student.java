@@ -1,16 +1,16 @@
-package com.librarymanagementsystem;
+package com.designpattern.librarymanagementsystem;
 
-public class Librarian implements User {
+public class Student implements User {
 
     private String name;
 
-    public Librarian(String name) {
+    public Student(String name) {
         this.name = name;
     }
 
     @Override
     public void showRole() {
-        System.out.println(name + " is a Librarian");
+        System.out.println(name + " is a Student");
     }
 
     @Override
