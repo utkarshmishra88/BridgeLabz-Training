@@ -1,7 +1,7 @@
 # Week 7: Design Patterns & Multithreading
 
 ## 📅 Day 1 – GoF Design Patterns (Library Management System)
-(Date: 03-02-2026)
+(Date: 31-01-2026)
 (Focus: Scalable and loosely coupled application design using Design Patterns)
 
 - Studied core GoF Design Patterns to design clean, maintainable, and reusable software systems.
@@ -26,3 +26,24 @@ Designed the system to simulate real-world library behavior with proper architec
 
 Code Link:
 [Day 1 – Design Patterns Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/designpattern/librarymanagementsystem)
+
+## 📅 Day 2 – Multithreading & Concurrency
+(Date: 02-02-2026)
+(Focus: Thread creation, synchronization, lifecycle management, and scheduling)
+
+- Studied Java multithreading concepts to execute multiple tasks simultaneously and improve performance.
+
+- Learned thread creation using both Thread class and Runnable interface.
+
+- Practiced join() to make the main thread wait for child threads.
+
+- Used sleep() to simulate real-time task execution.
+
+- Implemented synchronization to prevent race conditions while accessing shared resources.
+
+- Explored thread priorities and scheduling behavior.
+
+- Understood thread lifecycle states such as NEW, RUNNABLE, TIMED_WAITING, and TERMINATED.
+
+Code Link:
+[Day 2 – Multithreading Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/multithreading)
