@@ -17,10 +17,8 @@ public class StateMonitor extends Thread{
     public void run(){
 
         boolean running=true;
-
         while(running){
             running=false;
-
             for(Thread t:tasks){
 
                 Thread.State state=t.getState();
