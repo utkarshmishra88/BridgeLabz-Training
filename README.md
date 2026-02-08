@@ -28,6 +28,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java8-programming-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice)
 **Week 6** : Java 8 Features
 
+### 🔹 [java-design-pattern-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week 7** : Java Design Principles & Design Patterns
+
 ---
 
 ## 📂 Project Structure
