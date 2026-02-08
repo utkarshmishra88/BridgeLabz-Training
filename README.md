@@ -252,6 +252,16 @@ BridgeLabz-Training/
 - **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
 - **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
 
+### Java 8 Features (java8-programming-practice)
+- **Lambda Expressions**: Functional programming syntax and usage
+- **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
+- **Method References**: Static, instance, and constructor references
+- **Interface Enhancements**: Default and static methods
+- **Streams API**: Lazy evaluation, pipelines, parallel streams
+- **Collectors**: Grouping, partitioning, summarization, joining
+- **Workshop**: Real-world data processing using streams
+- **Problem Solving**: LeetCode challenges, real-world scenarios
+
 ---
 
 ## 🔗 Quick Links
