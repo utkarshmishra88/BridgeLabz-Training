@@ -1,0 +1,156 @@
+/*
+Exercise 2: Transaction Management
+Implement a banking system with:
+• Transfer money between accounts (use transactions)
+• Check balance
+• Transaction history
+*/
+
+
+Exercise 2: Transaction Management
+Banking System using MySQL
+
+Database Name : mysql_jdbc_practice
+Table Name    : account, transaction_history
+
+
+Create Account Table :
+
+
+Query:
+CREATE TABLE account(
+ account_id INT PRIMARY KEY,
+ name VARCHAR(50),
+ balance INT
+);
+
+Output:
+Query OK, 0 rows affected (0.33 sec)
+
+
+
+Create Transaction History Table :
+
+
+Query:
+CREATE TABLE transaction_history(
+ txn_id INT AUTO_INCREMENT PRIMARY KEY,
+ from_account INT,
+ to_account INT,
+ amount INT,
+ txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+Output:
+Query OK, 0 rows affected (0.04 sec)
+
+
+
+Insert Account Records :
+
+
+Query:
+INSERT INTO account VALUES
+(1, 'Vikash', 2000),
+(2, 'Sakshi', 5000);
+
+Output:
+Query OK, 2 rows affected (0.05 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+
+
+Start Transaction (Money Transfer) :
+
+
+Query:
+START TRANSACTION;
+
+Output:
+Query OK, 0 rows affected (0.00 sec)
+
+
+
+Debit Amount from Sender Account :
+
+
+Query:
+UPDATE account
+SET balance = balance - 2000
+WHERE account_id = 2;
+
+Output:
+Query OK, 1 row affected (0.02 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+
+
+Credit Amount to Receiver Account :
+
+
+Query:
+UPDATE account
+SET balance = balance + 2000
+WHERE account_id = 1;
+
+Output:
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+
+
+Insert Transaction Record :
+
+
+Query:
+INSERT INTO transaction_history(from_account, to_account, amount)
+VALUES
+(2,1,2000);
+
+Output:
+Query OK, 1 row affected (0.01 sec)
+
+
+
+Commit Transaction :
+
+
+Query:
+COMMIT;
+
+Output:
+Query OK, 0 rows affected (0.00 sec)
+
+
+
+Check Account Balance :
+
+
+Query:
+SELECT * FROM account;
+
+Output:
++------------+--------+---------+
+| account_id | name   | balance |
++------------+--------+---------+
+|          1 | Vikash |    4000 |
+|          2 | Sakshi |    3000 |
++------------+--------+---------+
+2 rows in set (0.02 sec)
+
+
+
+View Transaction History :
+
+
+Query:
+SELECT * FROM transaction_history;
+
+Output:
++--------+--------------+------------+--------+---------------------+
+| txn_id | from_account | to_account | amount | txn_date            |
++--------+--------------+------------+--------+---------------------+
+|      1 |            2 |          1 |   2000 | 2026-02-08 23:31:08 |
++--------+--------------+------------+--------+---------------------+
+1 row in set (0.00 sec)
+
