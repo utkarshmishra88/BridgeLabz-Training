@@ -53,7 +53,7 @@ BridgeLabz-Training/
 │
 ├── 📁 java-oops-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 JavaOopsConcepts/
+│   │   └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
@@ -68,7 +68,7 @@ BridgeLabz-Training/
 |
 ├── 📁 dsa-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 DSAConcepts/
+│   │   └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 linkedlists/       # singly, doubly & circular
@@ -82,9 +82,9 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
-└── 📁 java-collections-practice/
+├── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 CollectionsConcepts/
+│   │   └── 📁 CollectionsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 generics/          # Generic classes, methods, wildcards
@@ -100,12 +100,12 @@ BridgeLabz-Training/
 │   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
 │   │               └── 📁 annotations/       # Built-in & custom annotations, processors
 |   |
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
-│
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
 ├── 📁 java-iostreams-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 IOStreamsConcepts/
+│   │   └── 📁 IOStreamsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
@@ -116,15 +116,26 @@ BridgeLabz-Training/
 |
 ├── 📁 java8-programming-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 Java8Concepts/
+│   │   └── 📁 Java8Concepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
-│   │               └── 📁 methodreferences/  # Static, instance, constructor references
-│   │               └── 📁 interfaces/        # Default methods, static methods, functional interfaces
-│   │               └── 📁 streams/           # Stream API, intermediate & terminal operations
-│   │               └── 📁 collectors/        # Grouping, partitioning, summarizing collectors
+│   │               ├── 📁 methodreferences/  # Static, instance, constructor references
+│   │               ├── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│   │               ├── 📁 streams/           # Stream API, intermediate & terminal operations
+│   │               ├── 📁 collectors/        # Grouping, partitioning, summarizing collectors
 │   │               └── 📁 workshop/          # Mini projects & real-world stream problems
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-design-pattern-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DesignConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 designprinciples/  # SOLID principles and design patterns
+│   │               └── 📁 multithreading/    # Thread lifecycle, synchronization, concurrency examples 
 |   |
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
