@@ -248,6 +248,9 @@ BridgeLabz-Training/
 - **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
 - **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
 
+### Java I/O Streams (java-iostreams-practice)
+- **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
+- **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
 
 ---
 
