@@ -194,6 +194,12 @@ BridgeLabz-Training/
 | 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
 | 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
 
+### **Week 7 : Java Design Principles & Design Patterns**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 32  | 31-Jan      | Design Principles & Patterns   | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles        |
+| 33  | 02-Feb      | Multithreading in Java         | Thread lifecycle, synchronization, concurrency use cases            |
+
 ---
 
 ##  Key Concepts Covered
