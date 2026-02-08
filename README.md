@@ -262,6 +262,15 @@ BridgeLabz-Training/
 - **Workshop**: Real-world data processing using streams
 - **Problem Solving**: LeetCode challenges, real-world scenarios
 
+### Java Design Principles & Design Patterns (java-design-pattern-practice)
+- **Design Principles**: SOLID, DRY, KISS, YAGNI, composition over inheritance
+- **Design Patterns**: Singleton, Factory, Observer, Builder
+- **Clean Code Practices**: Object Calisthenics, interface-driven design
+- **Multithreading**: Thread lifecycle, creation using Thread & Runnable, priorities, daemon threads
+- **Synchronization**: Locks, shared resource handling, race-condition prevention
+- **Concurrency Testing**: JUnit validation, timing logs, performance comparison
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
+
 ---
 
 ## 🔗 Quick Links
