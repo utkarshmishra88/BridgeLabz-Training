@@ -364,6 +364,12 @@ BridgeLabz-Training/
 - 📌 [Collectors](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
 - 📌 [Workshop](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/smartcitytransport)
 
+### `java-design-pattern-practice` :
+- 📌 [Design Principles & Patterns](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/designpattern/librarymanagementsystem)
+- 📌 [Multithreading](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/multithreading)
+
+
+
 ---
 
 ## 🎓 Learnings & Best Practices
