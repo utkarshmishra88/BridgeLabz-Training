@@ -143,6 +143,25 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
+├── 📁 dbms-jdbc-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DBMSJDBCConcepts/
+│   │       ├── 📁 src/
+│   │       │   └── 📁 main/
+│   │       │       ├── 📁 resources/
+│   │       │       │   └── 📁 com/
+│   │       │       │       └── 📁 dbmsjdbc/
+│   │       │       │           └── 📁 sql/         # SQL scripts, DBMS fundamentals & MySQL DB
+│   │       │       └── 📁 java/
+│   │       │           └── 📁 com/
+│   │       │               └── 📁 dbmsjdbc/
+│   │       │                   └── 📁 jdbc/        # JDBC programs & DAO layer
+│   │       │
+│   │       └── pom.xml                             # Maven configuration and dependency management
+│   │
+│   ├── 📁 leet-code-codebase/                      # LeetCode solutions
+│   └── 📁 scenario-based-codebase/                 # Real-world problems
+│
 └── README.md
 ```
 
