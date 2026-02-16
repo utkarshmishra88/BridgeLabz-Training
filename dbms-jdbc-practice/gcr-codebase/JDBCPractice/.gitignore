@@ -1,25 +1,86 @@
+# =========================
 # Eclipse specific files
-
+# =========================
 .metadata/
-
 .settings/
-
 .classpath
-
 .project
 
-# Java build output
-
-bin/
-
+# =========================
+# Maven
+# =========================
 target/
+.mvn/
 
+# =========================
+# Java build output
+# =========================
+bin/
+*.class
+
+# =========================
 # Logs
-
+# =========================
 *.log
 
+# =========================
 # OS generated files
-
+# =========================
 .DS_Store
-
 Thumbs.db
+
+# =========================
+# IDE (Optional but recommended)
+# =========================
+.idea/
+*.iml
+.vscode/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.swp
+# =========================
+# Eclipse specific files
+# =========================
+.metadata/
+.settings/
+.classpath
+.project
+
+# =========================
+# Maven
+# =========================
+target/
+.mvn/
+
+# =========================
+# Java build output
+# =========================
+bin/
+*.class
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE (Optional but recommended)
+# =========================
+.idea/
+*.iml
+.vscode/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.swp
