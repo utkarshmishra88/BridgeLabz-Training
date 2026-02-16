@@ -31,6 +31,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-design-pattern-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice)
 **Week 7** : Java Design Principles & Design Patterns
 
+### 🔹 [dbms-jdbc-practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/dbms-jdbc-practice)
+**Week 8** : DBMS, SQL & JDBC Fundamentals
+
 ---
 
 ## 📂 Project Structure
@@ -140,6 +143,25 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
+├── 📁 dbms-jdbc-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DBMSJDBCConcepts/
+│   │       ├── 📁 src/
+│   │       │   └── 📁 main/
+│   │       │       ├── 📁 resources/
+│   │       │       │   └── 📁 com/
+│   │       │       │       └── 📁 dbmsjdbc/
+│   │       │       │           └── 📁 sql/         # SQL scripts, DBMS fundamentals & MySQL DB
+│   │       │       └── 📁 java/
+│   │       │           └── 📁 com/
+│   │       │               └── 📁 dbmsjdbc/
+│   │       │                   └── 📁 jdbc/        # JDBC programs & DAO layer
+│   │       │
+│   │       └── pom.xml                             # Maven configuration and dependency management
+│   │
+│   ├── 📁 leet-code-codebase/                      # LeetCode solutions
+│   └── 📁 scenario-based-codebase/                 # Real-world problems
+│
 └── README.md
 ```
 
@@ -210,6 +232,12 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 32  | 31-Jan      | Design Principles & Patterns   | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles        |
 | 33  | 02-Feb      | Multithreading in Java         | Thread lifecycle, synchronization, concurrency use cases            |
+
+### **Week 8 : DBMS, SQL & JDBC Fundamentals**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 34  | 06-Feb      | DBMS & SQL Optimization        | Normalization, joins, transactions, indexes, tuning & EXPLAIN       |
+| 35  | 09-Feb      | JDBC Fundamentals, Connectivity| JDBC architecture, CRUD operations, transactions, DAO/DTO patterns  |
 
 ---
 
@@ -282,6 +310,19 @@ BridgeLabz-Training/
 - **Concurrency Testing**: JUnit validation, timing logs, performance comparison
 -  **Problem Solving**: LeetCode challenges, real-world scenarios
 
+### DBMS, SQL & JDBC Fundamentals (dbms-jdbc-practice)
+- **Database Design**: Normal forms (1NF–4NF, BCNF), schema modeling
+- **Keys**: Primary, foreign, composite, candidate, unique
+- **SQL Commands**: DDL, DML, DQL, DCL, TCL
+- **Joins**: Inner, outer, cross, self joins
+- **Advanced Queries**: Subqueries, CTEs, window functions
+- **Indexing**: Clustered, non-clustered, composite, full-text, unique
+- **Query Optimization**: Execution plans, `EXPLAIN`, tuning strategies
+- **JDBC Architecture**: DriverManager, Connection, Statement APIs
+- **Database Operations**: CRUD using PreparedStatement
+- **Transactions**: Commit, rollback, savepoints, auto-commit handling
+- **Design Patterns**: DAO and DTO for database applications
+
 ---
 
 ## 🔗 Quick Links
@@ -306,7 +347,7 @@ BridgeLabz-Training/
 - 📌 [Encapsulation & Polymorphism](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
 - 📌 [Scenario-Based Solutions](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
-### `dsa-practice` :
+### `java-dsa-practice` :
 - 📌 [Linked Lists](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/linkedlist)
 - 📌 [Stacks & Queues](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/stacksandqueues)
 - 📌 [HashMaps](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/javaDsaConcepts/src/com/hashmap)
@@ -329,6 +370,28 @@ BridgeLabz-Training/
 - 📌 [Reflection](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
 - 📌 [Annotations](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
 - 📌 [Scenario-Based Solutions](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioColletionsPractice/src)
+
+### `java-iostreams-practice` :
+- 📌 [CSV Data Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
+- 📌 [JSON Data Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+
+### `java8-programming-practice` :
+- 📌 [Lambda Expressions](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdaexpression)
+- 📌 [Method References](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreference)
+- 📌 [Interfaces](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com)
+- 📌 [Streams](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapi)
+- 📌 [Collectors](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
+- 📌 [Workshop](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/smartcitytransport)
+
+### `java-design-pattern-practice` :
+- 📌 [Design Principles & Patterns](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/designpattern/librarymanagementsystem)
+- 📌 [Multithreading](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/multithreading)
+
+### `dbms-jdbc-practice` :
+- 📌 [DBMS, MySQL & SQL](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/MySQLConcepts/src)
+- 📌 [JDBC Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/JDBCPractice)
+- 📌 [Scenario-Based Solutions](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/MySQLScenarioConcepts/src)
+
 
 ---
 
