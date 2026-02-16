@@ -291,6 +291,19 @@ BridgeLabz-Training/
 - **Concurrency Testing**: JUnit validation, timing logs, performance comparison
 -  **Problem Solving**: LeetCode challenges, real-world scenarios
 
+### DBMS, SQL & JDBC Fundamentals (dbms-jdbc-practice)
+- **Database Design**: Normal forms (1NF–4NF, BCNF), schema modeling
+- **Keys**: Primary, foreign, composite, candidate, unique
+- **SQL Commands**: DDL, DML, DQL, DCL, TCL
+- **Joins**: Inner, outer, cross, self joins
+- **Advanced Queries**: Subqueries, CTEs, window functions
+- **Indexing**: Clustered, non-clustered, composite, full-text, unique
+- **Query Optimization**: Execution plans, `EXPLAIN`, tuning strategies
+- **JDBC Architecture**: DriverManager, Connection, Statement APIs
+- **Database Operations**: CRUD using PreparedStatement
+- **Transactions**: Commit, rollback, savepoints, auto-commit handling
+- **Design Patterns**: DAO and DTO for database applications
+
 ---
 
 ## 🔗 Quick Links
