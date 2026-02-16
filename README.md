@@ -368,6 +368,10 @@ BridgeLabz-Training/
 - 📌 [Design Principles & Patterns](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/designpattern/librarymanagementsystem)
 - 📌 [Multithreading](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/multithreading)
 
+### `dbms-jdbc-practice` :
+- 📌 [DBMS, MySQL & SQL](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/MySQLConcepts/src)
+- 📌 [JDBC Practice](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/JDBCPractice)
+- 📌 [Scenario-Based Solutions](https://github.com/utkarshmishra88/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/MySQLScenarioConcepts/src)
 
 
 ---
